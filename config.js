@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "923444844060"
+const ownervb = process.env.OWNERS || "2250546526324"
 
 
 const ownerlist = ownervb.split(';');
@@ -21,12 +21,12 @@ for (let i = 0; i < ownerlist.length; i += 2) {
     global.owner.push(owner);
 }
 
-//global.pairingNumber = "92xxx_number" //put your bot number here
-global.botNumber = '923051391007' //put your bot number here
+//global.pairingNumber = "2250546526324" //put your bot number here
+global.botNumber = '2250546526324' //put your bot number here
 
-global.mods = ['923444844060', '923051391007']
-global.prems = ['923444844060', '923051391007']
-global.allowed = ['923444844060', '923051391007']
+global.mods = ['2250546526324', '2250546526324']
+global.prems = ['2250546526324', '2250546526324']
+global.allowed = ['2250546526324', '2250546526324']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -75,7 +75,7 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'GLOBAL-MD'
+global.packname = ''
 global.author = 'GlobalTechInfo'
 global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
