@@ -75,7 +75,7 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = ''
+global.packname = '𝐊𝚮𝚫𝐋𝚰𝐋🍆 𝐒𝚸𝚵𝚵𝐃🔥 𝑬𝑽𝑰𝑳😈'
 global.author = 'GlobalTechInfo'
 global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
 global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
